@@ -6,7 +6,7 @@ Realizadas com os professores orientadores.
 
 | Data     | Relato      |
 | :------: | :---------: |
-|2019-08-16|[Link](Reunioes%20de%20Orientacao/2019-08-16.md)|
+|2019-08-16|[Link](https://github.com/imd-jr/reunioes-fundacao/blob/master/Reunioes%20de%20Orientacao/2019-08-16.md)|
 
 ## Reuniões de Trabalho
 Realizadas com os alunos voluntários do projeto.

@@ -13,4 +13,5 @@ Realizadas com os alunos voluntários do projeto.
 
 | Data     | Relato      |
 | :------: | :---------: |
-|2019-08-23|(Em revisão)|
+|2019-08-23|(Em apreciação)|
+|2019-08-30|(Em apreciação)|
